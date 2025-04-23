@@ -1,16 +1,25 @@
-## Hi there 👋
+### 📊 GitHub Stats
 
-<!--
-**codecurls/codecurls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdsravi&show_icons=true&theme=radical" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rdsravi&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rdsravi&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdsravi&layout=compact&theme=radical" />
+</p>
